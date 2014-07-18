@@ -3,3 +3,5 @@ def something()
 
 
 something()
+
+#IN BRANCH LG2 ADDED SOME COMMENTS

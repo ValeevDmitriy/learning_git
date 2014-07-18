@@ -8,4 +8,7 @@ something()
 
 joke('valera')
 
+something()
+
+#IN BRANCH LG2 ADDED SOME COMMENTS
 

@@ -12,3 +12,4 @@ something()
 
 #IN BRANCH LG2 ADDED SOME COMMENTS
 
+now we are adding smth after merge

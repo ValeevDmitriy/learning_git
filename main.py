@@ -13,3 +13,5 @@ something()
 #IN BRANCH LG2 ADDED SOME COMMENTS
 
 now we are adding smth after merge
+
+added smt in paralell with second branch
